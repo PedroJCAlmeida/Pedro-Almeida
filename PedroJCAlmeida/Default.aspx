@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="pedrojcalmeida.aspx.cs" Inherits="PedroJCAlmeida.pedrojcalmeida" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PedroJCAlmeida.pedrojcalmeida" %>
 
 <!DOCTYPE html>
 
@@ -132,22 +132,56 @@
       <div class="all-projects">
         <div class="project-item">
           <div class="project-info">
-            <h1>Rose's Decoração</h1>
-            <h2>Desenvolvido em Wordpress</h2>
-            <a href="http://pedroalmeida.great-site.net/" target="_blank" type="button" class="cta">Aceder</a>
+            <h1>Jornada XPTO</h1>
+            <h2>Game desenvolvido em C# ASP.Net com CSS, Bootstrap, JavaScript, HTML e manipulação de xml. Além de Web Scraping para raspagem de dados.</h2>
+            <a href="https://github.com/PedroJCAlmeida/jornadaXPTO" target="_blank" type="button" class="cta">Aceder</a>
           </div>
           <div class="project-img">
-            <img src="./img/roses.png" alt="img"/>
+            <img src="./img/jornadaXPTO2.png" alt="logo_jornadaXPTO"/>
 		  </div>
+             <div class="project-info">
+            <h1>Jéssica Almeida</h1>
+            <h2>Loja Online de Serviços de Marketing, desenvolvida em C# ASP.Net com CSS, Bootstrap, JavaScript, HTML. Além da base de dados em Microsoft SQL.</h2>
+            <a href="https://github.com/PedroJCAlmeida/Loja-Online" target="_blank" type="button" class="cta">Aceder</a>
+          </div>
+          <div class="project-img">
+            <img src="./img/loja_online.png" alt="imagem_montra"/>
+          </div>
         </div>
         <div class="project-item">
           <div class="project-info">
-            <h1>Fluminense F C</h1>
-            <h2>Desenvolvido em HTML</h2>
-            <a href="http://pedroalmeida.mypressonline.com/" target="_blank" type="button" class="cta">Aceder</a>
+            <h1>Calculadora IMC</h1>
+            <h2>Desenvolvida em Xamarim Android e base de dados SQLite.</h2>
+            <a href="https://github.com/PedroJCAlmeida/IMC" target="_blank" type="button" class="cta">Aceder</a>
           </div>
           <div class="project-img">
-            <img src="./img/flu.png" alt="img"/>
+            <img src="./img/app_imc.png" alt="imagem_logo_app"/>
+          </div>
+             <div class="project-info">
+            <h1>Jogo do Galo</h1>
+            <h2>Desenvolvido em HTML, CSS e JavaScrip</h2>
+            <a href="https://github.com/PedroJCAlmeida/Jogo-do-Galo" target="_blank" type="button" class="cta">Aceder</a>
+          </div>
+          <div class="project-img">
+            <img src="./img/jogo_do_galo.png" alt="imagem_jogo_do_galo"/>
+          </div>
+        </div>
+           <div class="project-item">
+          <div class="project-info">
+            <h1>Batalha Naval</h1>
+            <h2>Desenvolvido em C# Windows Form.</h2>
+            <a href="https://github.com/PedroJCAlmeida/Batalha-Naval" target="_blank" type="button" class="cta">Aceder</a>
+          </div>
+          <div class="project-img">
+            <img src="./img/batalha_naval.png" alt="imagem_batalha_naval"/>
+          </div>
+                <div class="project-info">
+            <h1>Notícicas</h1>
+            <h2>Desenvolvido em C# com HTMl, CSS, JavaScript, XML e XSLT.</h2>
+            <a href="https://github.com/PedroJCAlmeida/Noticias-XML_XSLT" target="_blank" type="button" class="cta">Aceder</a>
+          </div>
+          <div class="project-img">
+            <img src="./img/noticias.png" alt="imagem_noticias"/>
           </div>
         </div>
         </div>

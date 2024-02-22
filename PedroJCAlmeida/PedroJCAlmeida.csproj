@@ -68,23 +68,29 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="img\app_imc.png" />
+    <Content Include="img\batalha_naval.png" />
     <Content Include="img\favicon.png" />
     <Content Include="img\favicons.svg" />
     <Content Include="img\flu.png" />
     <Content Include="img\hero-bg.png" />
+    <Content Include="img\jogo_do_galo.png" />
+    <Content Include="img\jornadaXPTO.png" />
+    <Content Include="img\jornadaXPTO2.png" />
+    <Content Include="img\loja_online.png" />
+    <Content Include="img\noticias.png" />
     <Content Include="img\pedro.png" />
-    <Content Include="img\roses.png" />
-    <Content Include="pedrojcalmeida.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="pedrojcalmeida.aspx.cs">
-      <DependentUpon>pedrojcalmeida.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pedrojcalmeida.aspx.designer.cs">
-      <DependentUpon>pedrojcalmeida.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
